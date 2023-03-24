@@ -1,2 +1,2 @@
-# CadeIsTheBest
-chess website
+# Chess Website
+CadeIsTheBest
